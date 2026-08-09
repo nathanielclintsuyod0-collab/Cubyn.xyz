@@ -1,6 +1,6 @@
 window.SERAPHYX={
  serverIP:"play.seraphyx.net",
- discord:"https://discord.gg/yourserver",
+ discord:"https://discord.gg/sRA2rRTst",
  store:"https://store.seraphyx.net",
  liveStatus:false,
  statusEndpoint:"",
